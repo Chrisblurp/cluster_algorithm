@@ -1,0 +1,12 @@
+{
+  "name": "cluster_algorithm",
+  "version": "1.0.0",
+  "description": "algorithm to create a cluster for a random data set",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "chris",
+  "license": "ISC"
+}
